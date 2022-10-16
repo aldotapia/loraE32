@@ -1,1 +1,10 @@
 pymakr.conf
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/loraE32.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.DS_Store
+__pycache__/loraE32.cpython-36.pyc
+__pycache__/loraE32cp.cpython-36.pyc
